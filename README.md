@@ -15,7 +15,7 @@ Databases: PostgreSQL, Sequelize.
 
 🚀 Always looking for new challenges and opportunities to grow professionally.
 
-📫 ¡connect with me! [LinkedIn](https://www.linkedin.com/in/tu_perfil_de_LinkedIn)
+📫 ¡connect with me! [LinkedIn](https://www.linkedin.com/in/gonzalo-masa/)
 
 
 <!--
