@@ -1,5 +1,8 @@
 ### Hi I am Gonzalo Masa 👋
 
+![Texto alternativo](wepik--20230912191207mR2r.jpg)
+
+
 <!--
 **gonzalo00913/gonzalo00913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
