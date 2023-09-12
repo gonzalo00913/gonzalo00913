@@ -1,7 +1,8 @@
 ### Hi I am Gonzalo Masa 👋
 
 
-![wepik--20230912193126hbrq](https://github.com/gonzalo00913/gonzalo00913/assets/107151549/06f02911-4514-444b-a7bf-eec8a9e86b83)
+![wepik--20230912201511mohd](https://github.com/gonzalo00913/gonzalo00913/assets/107151549/de7640aa-05d1-43b8-a432-c844a6fc1a2d)
+
 
 🌐 Full Stack developer with experience in modern web technologies.
 
