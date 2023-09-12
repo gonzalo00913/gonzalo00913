@@ -3,7 +3,19 @@
 
 ![wepik--20230912193126hbrq](https://github.com/gonzalo00913/gonzalo00913/assets/107151549/06f02911-4514-444b-a7bf-eec8a9e86b83)
 
+🌐 Full Stack developer with experience in modern web technologies.
 
+💻 My tech stack includes:
+
+Frontend: HTML, CSS, JavaScript, React.
+
+Backend: Node.js, Express.
+
+Databases: PostgreSQL, Sequelize.
+
+🚀 Always looking for new challenges and opportunities to grow professionally.
+
+📫 ¡connect with me! [LinkedIn](https://www.linkedin.com/in/tu_perfil_de_LinkedIn)
 
 
 <!--
