@@ -1,6 +1,8 @@
 ### Hi I am Gonzalo Masa 👋
 
-![Texto alternativo](wepik--20230912191207mR2r.jpg)
+
+![wepik--20230912193126hbrq](https://github.com/gonzalo00913/gonzalo00913/assets/107151549/70d445f5-e354-4b02-9c6d-b5a33040fbb0)
+
 
 
 <!--
