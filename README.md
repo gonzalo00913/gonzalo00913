@@ -18,6 +18,8 @@ Databases: PostgreSQL, Sequelize.
 
 📫 ¡connect with me! [LinkedIn](https://www.linkedin.com/in/gonzalo-masa/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <!--
 **gonzalo00913/gonzalo00913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
