@@ -18,7 +18,8 @@ Databases: PostgreSQL, Sequelize.
 
 📫 ¡connect with me! [LinkedIn](https://www.linkedin.com/in/gonzalo-masa/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalo00913&hide_progress=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalo00913)](https://github.com/gonzalo00913/github-readme-stats)
 [![Estadísticas de GitHub de Gonzalo](https://github-readme-stats.vercel.app/api?username=gonzalo00913&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
