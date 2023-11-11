@@ -8,11 +8,11 @@
 
 💻 My tech stack includes:
 
-Frontend: HTML, CSS, JavaScript, React.
+Frontend: HTML, CSS, JavaScript, React, Redux.
 
 Backend: Node.js, Express.
 
-Databases: PostgreSQL, Sequelize.
+Databases: PostgreSQL, MongoDB, Sequelize(ORM).
 
 🚀 Always looking for new challenges and opportunities to grow professionally.
 
