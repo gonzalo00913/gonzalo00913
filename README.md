@@ -12,7 +12,7 @@ Frontend: HTML, CSS, JavaScript, React, Redux.
 
 Backend: Node.js, Express.
 
-Databases: PostgreSQL, MongoDB, Sequelize(ORM).
+Databases: PostgreSQL, MongoDB.
 
 🚀 Always looking for new challenges and opportunities to grow professionally.
 
